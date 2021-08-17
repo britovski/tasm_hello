@@ -26,3 +26,7 @@ Then you will see the below screen:
 ![img](images/hello.png)
 
 Use Turbo Debugger to check step-by-step instruction flow and have fun checking memory and registers variations.
+
+If you are a VSCode user, maybe you want to see this setup: https://github.com/xsro/VSC-ASMtasks
+
+And if you want to do on rwindows: https://trimtab.ca/2010/tech/tasm-5-intel-8086-turbo-assembler-download/
