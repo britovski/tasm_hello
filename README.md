@@ -29,4 +29,6 @@ Use Turbo Debugger to check step-by-step instruction flow and have fun checking 
 
 If you are a VSCode user, maybe you want to see this setup: https://github.com/xsro/VSC-ASMtasks
 
+If you want to install VSCode on CentOS7, see: https://linuxize.com/post/how-to-install-visual-studio-code-on-centos-7/
+
 And if you want to do on rwindows: https://trimtab.ca/2010/tech/tasm-5-intel-8086-turbo-assembler-download/
